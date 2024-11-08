@@ -1,0 +1,6 @@
+/// For more information on how to use conic gradients, see:
+/// - The CSS conic-gradient() function documentation: https://developer.mozilla.org/en-US/docs/Web/CSS/conic-gradient
+/// - The official CSS specification: https://www.w3.org/TR/css-images-4/#conic-gradients
+///
+/// Conic gradients are a type of CSS gradient where the color transitions rotate around a center point, like the hands of a clock.
+/// They are defined using the `conic-gradient()` function.
